@@ -3,6 +3,10 @@
 > Wrapper PyQt6 pensé pour construire des interfaces de bureau en Python de manière lisible, chainable, et sans répétition.
 
 ---
+## Installation
+```bash
+pip install uiwrapper
+```
 
 ## Table des matières
 
