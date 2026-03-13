@@ -1,6 +1,6 @@
 # UIWrapper — Documentation
 
-> Wrapper PyQt6 pensé pour construire des interfaces de bureau en Python de manière lisible, chainable, et sans répétition.
+> Wrapper PySide6 pensé pour construire des interfaces de bureau en Python de manière lisible, chainable, et sans répétition.
 
 ---
 ## Installation
